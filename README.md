@@ -21,8 +21,12 @@ To begin, I addressed the existing bugs, particularly in the gallery where the f
 # How to launch the project with npm
 
 ## 1- Clone the [repository](https://github.com/Guilly-AU/P5-Nina_Carducci-SEO_optimization.git)
-## 2- Launching the App
+## 2- Launch the frontend with "Live Server"
 
-After cloning the repository, execute the command `npm install` to install the project's dependencies.
+Original website without optimization [Nina Carducci](https://ninacarducci.github.io/)
 
-Once the dependencies are installed, start the project with the command `npm start`
+Lighthouse before optimization:\
+![Lighthouse before optimization](https://user-images.githubusercontent.com/125476287/281285205-876d17ee-2628-4250-8532-10666b477d90.png "Lighthouse before optimization")
+
+Lighthouse after optimization:\
+![Lighthouse after optimization](https://user-images.githubusercontent.com/125476287/281285196-1b025f62-988c-420a-9ecf-c64e00f273d6.png "Lighthouse after optimization")
