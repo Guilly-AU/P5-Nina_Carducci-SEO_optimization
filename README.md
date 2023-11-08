@@ -27,4 +27,6 @@ Original website without optimization [Nina Carducci](https://ninacarducci.githu
 
 Lighthouse before optimization:
 ![Lighthouse before optimization](https://user-images.githubusercontent.com/125476287/281285205-876d17ee-2628-4250-8532-10666b477d90.png "Lighthouse before optimization")
+
+Lighthouse after optimization:
 ![Lighthouse after optimization](https://user-images.githubusercontent.com/125476287/281285196-1b025f62-988c-420a-9ecf-c64e00f273d6.png "Lighthouse after optimization")
