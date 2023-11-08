@@ -1,4 +1,4 @@
-# P5 - Create the homepage of a travel agency with HTML and CSS
+# P5 - Debug and optimize a photographer's website
 
 For this educational project, I assumed the role of a freelance developer, offering my SEO optimization services to Nina Carducci, a photographer. The website had a few bugs and was not well optimized.
 
@@ -24,3 +24,7 @@ To begin, I addressed the existing bugs, particularly in the gallery where the f
 ## 2- Launch the frontend with "Live Server"
 
 Original website without optimization [Nina Carducci](https://ninacarducci.github.io/)
+
+Lighthouse before optimization:
+![Lighthouse before optimization](https://user-images.githubusercontent.com/125476287/281285205-876d17ee-2628-4250-8532-10666b477d90.png "Lighthouse before optimization")
+![Lighthouse after optimization](https://user-images.githubusercontent.com/125476287/281285196-1b025f62-988c-420a-9ecf-c64e00f273d6.png "Lighthouse after optimization")
